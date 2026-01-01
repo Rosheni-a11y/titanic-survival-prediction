@@ -66,13 +66,20 @@ Trained and compared multiple models:
 ## Key Insights
 **Most Important Features for Survival:** 
 1. **Sex** (0.54 correlation) - Women had 74% survival rate vs men's 19% 
-2. **Pclass** (-0.34 correlation) - 1st class: 63% survival, 3rd class: 24% 3. **Fare** (0.26 correlation) - Higher fare = better survival chances
+2. **Pclass** (-0.34 correlation) - 1st class: 63% survival, 3rd class: 24%
+3. **Fare** (0.26 correlation) - Higher fare = better survival chances
    
-**Model Performance:** - Successfully predicted 75.6% of test passengers correctly - Best at identifying deaths (87% recall) - Room for improvement in catching survivors (72% recall)
+**Model Performance:** - 
+-Successfully predicted 75.6% of test passengers correctly 
+- Best at identifying deaths (87% recall)
+- - Room for improvement in catching survivors (72% recall)
 
 ---
 
 ## Project Structure
+
+'''
+plaintext
 
 titanic-survival-prediction/
 │
@@ -80,6 +87,7 @@ titanic-survival-prediction/
 ├── titanic_submission.csv
 ├── README.md
 
+'''
 ---
 
 ## What I Learned
