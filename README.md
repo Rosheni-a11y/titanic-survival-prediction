@@ -1,11 +1,11 @@
 # Titanic Survival Prediction
 
-##📊 Overview
+## Overview
 This project predicts passenger survival on the Titanic using machine learning techniques. It was developed as a beginner-friendly data science project based on the Kaggle Titanic competition, focusing on data preprocessing, feature engineering, and model evaluation.
 
 ---
 
-##🎯Results
+## Results
 - **Best Model:** Random Forest Classifier  
 - **Validation Accuracy:** 81.56%  
 - **Kaggle Public Score:** 0.75598  
@@ -13,7 +13,7 @@ This project predicts passenger survival on the Titanic using machine learning t
 
 ---
 
-##🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas - Data manipulation
 - NumPy - Numerical computing
@@ -23,7 +23,7 @@ This project predicts passenger survival on the Titanic using machine learning t
 
 ---
 
-##📊Dataset
+## Dataset
 The dataset is obtained from the **Kaggle Titanic Machine Learning Competition** (https://www.kaggle.com/c/titanic).
 
 **Key Features Used**
@@ -38,7 +38,7 @@ The dataset is obtained from the **Kaggle Titanic Machine Learning Competition**
 
 ---
 
-##🔍 Methodology
+## Methodology
 
 ### 1. Data Exploration
 - Analyzed 891 training passengers
@@ -63,7 +63,7 @@ Trained and compared multiple models:
 
 ---
 
-##📈 Key Insights
+## Key Insights
 **Most Important Features for Survival:** 
 1. **Sex** (0.54 correlation) - Women had 74% survival rate vs men's 19% 
 2. **Pclass** (-0.34 correlation) - 1st class: 63% survival, 3rd class: 24% 3. **Fare** (0.26 correlation) - Higher fare = better survival chances
@@ -82,7 +82,7 @@ titanic-survival-prediction/
 
 ---
 
-##🎓 What I Learned
+## What I Learned
 - Data preprocessing and handling missing values
 - Feature engineering techniques
 - Training and evaluating ML models
@@ -92,7 +92,7 @@ titanic-survival-prediction/
 
 ---
 
-##🔮 Future Improvements
+## Future Improvements
 
 - [ ] Implement cross-validation for better estimates
 - [ ] Try ensemble methods (XGBoost, Gradient Boosting)
