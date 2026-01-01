@@ -78,7 +78,7 @@ Trained and compared multiple models:
 
 ## Project Structure
 
-```plaintext
+```
 
 titanic-survival-prediction/
 │
