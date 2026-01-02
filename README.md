@@ -82,6 +82,7 @@ Trained and compared multiple models:
 
 titanic-survival-prediction/
 │
+|── data
 ├── titanic_machine_learning.ipynb
 ├── titanic_submission.csv
 ├── README.md
